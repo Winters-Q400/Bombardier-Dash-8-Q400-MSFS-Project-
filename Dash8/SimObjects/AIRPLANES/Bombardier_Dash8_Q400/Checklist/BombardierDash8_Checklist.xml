@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<SimBase.Document Type="Checklist" version="0,1">
+	<Checklist.Checklist>
+    		<IncludeCheckpointLibrary FileName="SimObjects\\AIRPLANES\\Bombardier_Dash8_Q400\\Checklist\\Library.xml"/>
+	</Checklist.Checklist>
+</SimBase.Document>
